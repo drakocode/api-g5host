@@ -1,0 +1,30 @@
+/////categoria:
+{
+    "titulo":"titulo",
+    "descricao":"descricao",
+    "urlImg":"link"
+}
+
+
+/////produto:
+{
+	"nome":"nome",
+	"descricao":"descricao",
+	"imagens":[],
+	"categoria":{
+			"titulo":"titulo",
+			"descricao":"descricao",
+    			"urlImg":"link"
+
+	},
+	"cidade":{
+			"nome":"cidade",
+			"pais":"pais",
+	}
+}
+
+/////cidade:
+{
+	"nome":"cidade",
+	"pais":"pais",
+}
